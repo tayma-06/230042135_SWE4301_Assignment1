@@ -12,9 +12,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("====== TasteBuds Catering System (TBCS) ======");
+        System.out.println("------ TasteBuds Catering System (TBCS) ------");
 
-        // ===== Customer Info =====
         System.out.print("Enter Customer Name: ");
         String name = InputUtil.input.nextLine();
 

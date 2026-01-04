@@ -1,1 +1,2 @@
 Order#1 Category: Priority Amount: 1235.0
+Order#10 Category: Normal Amount: 350.0

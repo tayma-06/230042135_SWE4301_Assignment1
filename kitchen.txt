@@ -5,3 +5,10 @@ Assigned Chefs: Chef A Chef B
 Estimated Time: 25 mins
 Status: Preparation Started
 
+HeadChef: Chef Karim
+Order #10
+Category: Normal
+Assigned Chefs: Chef A Chef B 
+Estimated Time: 40 mins
+Status: Preparation Started
+
