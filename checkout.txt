@@ -1,3 +1,1 @@
-Order#101 Checkout: false
-Order#101 Checkout: true
-Order#101 Checkout: true
+Order#1 Checkout: true

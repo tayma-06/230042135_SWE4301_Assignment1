@@ -1,6 +1,9 @@
-package tbcs.model;
+package tbcs.model.delivery;
 
-public class Driver implements Nameable, Checkoutable{
+import tbcs.interfaces.Checkoutable;
+import tbcs.interfaces.Nameable;
+
+public class Driver implements Nameable, Checkoutable {
     private final String name;
     private final String licenseNumber;
     public Driver(String name, String licenseNumber)

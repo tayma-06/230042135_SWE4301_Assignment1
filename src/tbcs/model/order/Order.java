@@ -1,4 +1,4 @@
-package tbcs.model;
+package tbcs.model.order;
 
 public abstract class Order
 {
@@ -18,9 +18,4 @@ public abstract class Order
         return amount;
     }
     public abstract String getCategory();
-
-    public int getID()
-    {
-        return orderNumber;
-    }
 }

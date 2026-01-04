@@ -1,4 +1,4 @@
-package tbcs.model;
+package tbcs.model.feedback;
 
 public class Feedback {
     private final int orderNumber;

@@ -1,6 +1,6 @@
 package tbcs.persistence;
 
-import tbcs.model.Feedback;
+import tbcs.model.feedback.Feedback;
 import tbcs.util.FileUtil;
 
 public class FeedbackRepository

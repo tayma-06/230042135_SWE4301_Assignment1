@@ -1,4 +1,4 @@
-package tbcs.model;
+package tbcs.interfaces;
 
 public interface Discountable
 {

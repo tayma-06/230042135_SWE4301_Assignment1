@@ -1,6 +1,6 @@
 package tbcs.persistence;
 
-import tbcs.model.Order;
+import tbcs.model.order.Order;
 import tbcs.util.FileUtil;
 
 public class OrderRepository

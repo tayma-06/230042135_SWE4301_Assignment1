@@ -1,6 +1,6 @@
 package tbcs.service;
 
-import tbcs.model.Checkoutable;
+import tbcs.interfaces.Checkoutable;
 import tbcs.persistence.CheckoutRepository;
 import tbcs.persistence.DeliveryRepository;
 

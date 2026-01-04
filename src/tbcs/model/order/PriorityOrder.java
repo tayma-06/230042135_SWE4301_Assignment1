@@ -1,4 +1,4 @@
-package tbcs.model;
+package tbcs.model.order;
 
 public class PriorityOrder extends Order
 {

@@ -1,6 +1,9 @@
 package tbcs.service;
 
-import tbcs.model.*;
+import tbcs.model.customer.Customer;
+import tbcs.model.order.NormalOrder;
+import tbcs.model.order.Order;
+import tbcs.model.order.PriorityOrder;
 import tbcs.persistence.OrderRepository;
 
 public class OrderService

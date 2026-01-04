@@ -1,4 +1,4 @@
-package tbcs.model;
+package tbcs.model.customer;
 
 public class RegisteredCustomer extends Customer
 {

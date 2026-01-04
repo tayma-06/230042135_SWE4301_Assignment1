@@ -1,4 +1,7 @@
-package tbcs.model;
+package tbcs.model.customer;
+
+import tbcs.interfaces.Discountable;
+import tbcs.interfaces.Nameable;
 
 public abstract class Customer implements Nameable, Discountable
 {
