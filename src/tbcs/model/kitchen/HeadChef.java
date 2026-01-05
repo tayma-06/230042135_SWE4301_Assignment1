@@ -1,6 +1,6 @@
-package tbcs.model.order;
+package tbcs.model.kitchen;
 
-import tbcs.model.kitchen.Chef;
+import tbcs.model.order.Order;
 
 import java.util.List;
 

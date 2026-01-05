@@ -1,7 +1,7 @@
 package tbcs.service;
 
 import tbcs.model.kitchen.Chef;
-import tbcs.model.order.HeadChef;
+import tbcs.model.kitchen.HeadChef;
 import tbcs.model.order.Order;
 import tbcs.persistence.KitchenRepository;
 
